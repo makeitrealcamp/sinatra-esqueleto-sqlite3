@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+
 
 # SQLite3 driver
 gem 'sqlite3'
